@@ -2,10 +2,9 @@
 
 
 - 🔭 Desenvolvedor Front-End
-- 💬 Ask me about ...
+- 💬 Focado em tecnologias Javascript, TypeScript, Reactjs
 - 📫 Contatos logo abaixo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 <div align="center">
