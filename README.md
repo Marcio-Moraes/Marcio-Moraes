@@ -25,8 +25,10 @@
   
   <h2>📲📱Contato</h2>
   <div>   
-  <a href="https://www.instagram.com/marcio.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/marcio.io" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
   <a href = "mailto:marciomoraes.cdd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marciomsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send?phone=5581986709660&text=Ol%C3%A1%20M%C3%A1rcio%20vim%20pelo%20teu%20perfil%20no%20Github" target="_blank"><img src="https://camo.githubusercontent.com/eab03e7460fea0b2873ced5973f0a87ec53289647b1fd874059770e3333ea068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235643336363f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d323564333636266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6c696e6b77686174732e6170702f3262396164382f" /></a>
+    <a href="https://api.whatsapp.com/send?phone=5581986709660&text=Ol%C3%A1%20M%C3%A1rcio%20vim%20pelo%20teu%20perfil%20no%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </div>
