@@ -1,8 +1,8 @@
  <h1>😎👩‍💻💻🖱 Olá, eu sou o {Márcio}! 👋</h1>
 
 
-- 🔭 Desenvolvedor Front-End
-- 💬 Focado em tecnologias Javascript, TypeScript, Reactjs
+- 🔭 Desenvolvedor Front-End ReactJS e Desenvolvedor WordPress
+- 💬 Focado em tecnologias Javascript, TypeScript, Reactjs, WordPress, PHP
 - 📫 Contatos logo abaixo
 
 
