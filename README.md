@@ -1,7 +1,9 @@
- # <h1>😎👩‍💻💻🖱 Olá, eu sou o {Márcio}! 👋</h1>
+ # 👩‍💻💻🖱 Olá, eu sou o {Márcio}!
 
-- 🔭 Desenvolvedor Front-End Nextjs | ReactJS | TypeScript | TailwindCSS
-- 💬 Desenvolvedor a mais de 7 anos, com experiências, nos mais variados tipos de projetos web.
+ **`Desenvolvedora Front-End Nextjs | ReactJS | TypeScript | TailwindCSS`**
+
+ 
+
 
 <a href="https://www.marciomsilva.com.br/" target="_blank">Acesse meu portfolio clicando aqui</a>
 
