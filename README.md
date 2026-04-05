@@ -25,6 +25,15 @@ Atualmente, meu foco é em aplicações modernas, escaláveis ​​e de alto de
     </a>
 </p>
 
+## Tecnologias
+
+### Frontend
+
+![reactjs](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
+![nextjs](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 <a href="https://www.marciomsilva.com.br/" target="_blank">Acesse meu portfolio clicando aqui</a>
 
 <div align="left">
