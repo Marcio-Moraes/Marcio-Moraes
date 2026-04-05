@@ -49,10 +49,7 @@ Atualmente, meu foco é em aplicações modernas, escaláveis ​​e de alto de
 
   
 ## 📱Contato
-  <div>   
-  <a href="https://www.instagram.com/marcio.io/" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
+  <div>
   <a href = "mailto:marciomoraes.cdd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marciomsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5581986709660&text=Ol%C3%A1%20M%C3%A1rcio%20vim%20pelo%20teu%20perfil%20no%20Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
