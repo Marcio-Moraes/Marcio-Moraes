@@ -2,11 +2,15 @@
 
  **`Desenvolvedor Front-End Nextjs | ReactJS | TypeScript | TailwindCSS`**
 
- Me chamo Márcio Moraes da Silva, 
+Me chamo Márcio Moraes da Silva, 
+
+Tenho uma sólida experiência em desenvolvimento Front-End, atuando em projetos variados que vão desde sistemas corporativos até aplicações móveis. Minha atuação abrange desde a criação de interfaces modernas e responsivas até a implementação de funcionalidades complexas e integração com APIs.
  
 Anteriormente, trabalhei extensivamente com WordPress, criando e personalizando websites, o que me proporcionou uma base sólida em desenvolvimento web, UX e necessidades do cliente.
 
 Atualmente, meu foco é em aplicações modernas, escaláveis ​​e de alto desempenho.
+
+
  
 <p align="left">
     <a href="https://github.com/marcio-moraes?tab=repositories&sort=stargazers">
