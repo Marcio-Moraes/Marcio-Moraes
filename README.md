@@ -39,6 +39,7 @@ Atualmente, meu foco é em aplicações modernas, escaláveis ​​e de alto de
 ![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Ferramentas
 
