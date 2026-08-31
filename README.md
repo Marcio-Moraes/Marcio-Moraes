@@ -2,7 +2,7 @@
 
  **`Desenvolvedor Front-End Nextjs | ReactJS | TypeScript | TailwindCSS`**
  
- <[Portfólio](https://portfolio-nextjs-gamma-beige.vercel.app/)> 
+ [Acesse meu Portfólio](https://portfolio-nextjs-gamma-beige.vercel.app/)
  
 
 Me chamo Márcio Moraes da Silva, 
