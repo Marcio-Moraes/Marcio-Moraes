@@ -1,6 +1,6 @@
  # 💻🖱 Márcio Moraes
 
- **`Desenvolvedor Front-End Nextjs | ReactJS | TypeScript | TailwindCSS`**
+ **`Desenvolvedor Front-End Nextjs | ReactJS | TypeScript | TailwindCSS | Desenvolvedor WordPress PHP`**
  
  [Acesse meu Portfólio](https://portfolio-nextjs-gamma-beige.vercel.app/)
  
